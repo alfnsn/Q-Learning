@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/python-3.12-blue)
 
-Repository ini berisi proses belajar dan implementasi Q-Learning dari dasar hingga project akhir.
+Repository ini berisi proses belajar dan implementasi Q-Learning dari dasar.
 
 ---
 
@@ -18,7 +18,7 @@ Repo ini dibuat untuk:
 
 ---
 
-## Tujuan
+## Goals
 
 - Memahami dasar Reinforcement Learning
 - Mengimplementasikan Q-Learning dengan atau tanpa library RL
